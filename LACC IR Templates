@@ -1,14 +1,24 @@
-##COMMAND INITAL IR ENTERIES
+> COMMAND INITAL IR ENTERIES
+    1. Primary Command Officer.
+    2. All shift barricade inspections.
+    3. All shift meeting room check. (150, 300, 400, and 500)
+    4. All shift radio check.
 
-1. Primary Command Officer.
-2. All shift barricade inspections.
-3. All shift meeting room check. (150, 300, 400, and 500)
-4. All shift radio check.
+> CALL OFFS
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness.
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 1430 to 2300hrs due to illness.
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 2230 to [date] 0700hrs due to illness.
+    
+    >> For Officers that advise that they will have a doctors note:
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness and will have a doctor's note upon return.
 
-##CALL OFFS
+> BREAKS
+    First break from [time] to [time].
+    Second break from [time] to [time].
+    Lunch break from [time] to [time].
 
-Officer [First Initial, Last Name] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness.
-Officer [First Initial, Last Name] has called off for [his/her] shift on [date] from 1430 to 2300hrs due to illness.
-Officer [First Initial, Last Name] has called off for [his/her] shift on [date] from 2230 to [date] 0700hrs due to illness.
+> BARRICADE CHECKS
+    South Lobby Ext. // Ten (10) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    West Lobby Ext. // Forty-four (44) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    West Arcade // Nine (9) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
 
-##PATROLS
