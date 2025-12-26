@@ -36,7 +36,11 @@
 > BARRICADE CHECKS
     South Lobby Ext. // Ten (10) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
     West Lobby Ext. // Forty-four (44) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
-    West Arcade // Nine (9) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    West Arcade // Nine (9) barricade covers in the West Arcade area are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    Section Orange // Fourteen (14) barricade covers in the West Arcade area are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+
+>COMMAND INVENTORY
+    Collect [FirstInitial] [LastName]'s radio (#) and key set (#) earpiece (#) and flashlight (#).
 
 > DIGITAL DISPLAY ISSUES
     Digital display not operating properly at [location].
@@ -46,4 +50,4 @@
 > TRANSIENT
     Intercept and remove a transient individual situated in [location].
         Description:
-        [nickname]
+        *
