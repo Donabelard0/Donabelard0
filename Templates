@@ -12,6 +12,10 @@
     West Lobby Post Officer. [Glass Door and Barricade Watch]
     Fire Control Room Officer. [Firewatch]
 
+> ACTIONS
+    Locks // Close and secure [location] due to no activity and end of business day.
+
+
 > CALL OFFS
     Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness.
     Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 1430 to 2300hrs due to illness.
@@ -24,6 +28,10 @@
     First break from [time] to [time].
     Second break from [time] to [time].
     Lunch break from [time] to [time].
+    
+    Relieve Command Officer for his first break.
+    Relieve Command Officer for his lunch break.
+    Relieve Command Officer for his second break.
 
 > BARRICADE CHECKS
     South Lobby Ext. // Ten (10) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
