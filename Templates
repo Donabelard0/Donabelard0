@@ -14,7 +14,7 @@
 
 > ACTIONS
     Locks // Close and secure [location] due to no activity and end of business day.
-
+    Code-10 // Provide temporary access to [company} droping off [equpipment] at [location].
 
 > CALL OFFS
     Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness.
@@ -49,5 +49,6 @@
 
 > TRANSIENT
     Intercept and remove a transient individual situated in [location].
+    Intercept and attempt to relocate transient individual found in [location].
         Description:
         *
