@@ -1,0 +1,53 @@
+> COMMAND INITAL IR ENTERIES
+    1. Primary Command Officer.
+    2. All shift barricade inspections.
+    3. All shift meeting room check. (150, 300, 400, and 500)
+    4. All shift radio check.
+    5. Print out new key logs and Daily Checklist for December 25, 2025.
+    6. Secure all meeting rooms that are not on re-core.
+        6a. Unsecure all meeting rooms on the "Today - Rooms" list on Momentus.
+
+> POSTS
+    South Lobby Post Officer. [Glass Door and Barricade Watch]
+    West Lobby Post Officer. [Glass Door and Barricade Watch]
+    Fire Control Room Officer. [Firewatch]
+
+> ACTIONS
+    Locks: Close and secure [location] due to no activity and end of business day.
+
+
+> CALL OFFS
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness.
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 1430 to 2300hrs due to illness.
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 2230 to [date] 0700hrs due to illness.
+    
+    -> For Officers that advise that they will have a doctors note:
+    Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness and will have a doctor's note upon return.
+
+> BREAKS
+    First break from [time] to [time].
+    Second break from [time] to [time].
+    Lunch break from [time] to [time].
+    
+    Relieve Command Officer for his first break.
+    Relieve Command Officer for his lunch break.
+    Relieve Command Officer for his second break.
+
+> BARRICADE CHECKS
+    South Lobby Ext. // Ten (10) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    West Lobby Ext. // Forty-four (44) barricade covers at the South Lobby Exterior are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    West Arcade // Nine (9) barricade covers in the West Arcade area are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+    Section Orange // Fourteen (14) barricade covers in the West Arcade area are reported by Officer [name]. The covers show no evidence of damage or vandalism. 
+
+>COMMAND INVENTORY
+    Collect [FirstInitial] [LastName]'s radio (#) and key set (#) earpiece (#) and flashlight (#).
+
+> DIGITAL DISPLAY ISSUES
+    Digital display not operating properly at [location].
+    // Comment Section Information
+    // Description: - Notes:
+
+> TRANSIENT
+    Intercept and remove a transient individual situated in [location].
+        Description:
+        *
