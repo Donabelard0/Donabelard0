@@ -1,15 +1,16 @@
 > COMMAND INITAL IR ENTERIES
     1. Primary Command Officer.
-    2. All shift barricade inspections.
-    3. All shift meeting room check. (150, 300, 400, and 500)
-    4. All shift radio check.
-    5. Print out new key logs and Daily Checklist for December 25, 2025.
-    6. Secure all meeting rooms that are not on re-core.
-        6a. Unsecure all meeting rooms on the "Today - Rooms" list on Momentus.
-    7. Transient sweep of the garages in the South and Venice Garage.
+    2. Shift barricade inspections.
+    3. Shift meeting room check. (150, 300, 400, and 500)
+    4. Shift radio check.
+    7. Shift transient sweep of the garages in the South and Venice Garage.
         // Attempt to conduct sweeps every hour if possible.
         South Garage (A+E+D+F):
         Venice Garage:
+    5. Print out new key logs and Daily Checklist for December 25, 2025.
+    6. Secure all meeting rooms that are not on re-core.
+        6a. Unsecure all meeting rooms on the "Today - Rooms" list on Momentus.
+
 > POSTS
     South Lobby Post Officer. [Glass Door and Barricade Watch]
     West Lobby Post Officer. [Glass Door and Barricade Watch]
