@@ -2,13 +2,15 @@
     1. Primary Command Officer.
     2. Shift barricade inspections.
     3. Shift meeting room check. (150, 300, 400, and 500)
+        + Officer # has completed sweeps of the # meeting rooms.
     4. Shift radio check.
     7. Shift transient sweep of the garages in the South and Venice Garage.
         // Attempt to conduct sweeps every hour if possible.
         South Garage (A+E+D+F):
         Venice Garage:
     5. Print out new key logs and Daily Checklist for December 25, 2025.
-    6. Secure all meeting rooms that are not on re-core.
+    6. Close and secure all meeting rooms not on re-core.
+            + MR #: Re-cored and unsecured.
         6a. Unsecure all meeting rooms on the "Today - Rooms" list on Momentus.
 
 > POSTS
@@ -18,6 +20,7 @@
 
 > ACTIONS
     Locks: Close and secure [location] due to no activity and end of business day.
+    Code-10s: Provide temporary access to # (#) of [Company] to enter at West Ramp Entrance.
 
 
 > CALL OFFS
@@ -29,7 +32,7 @@
     Officer [FirstInitial] [LastName] has called off for [his/her] shift on [date] from 0630 to 1500hrs due to illness and will have a doctor's note upon return.
 
 > BREAKS
-    First break from [time] to [time].
+    First break from # to #.
     Second break from [time] to [time].
     Lunch break from [time] to [time].
     
@@ -55,3 +58,7 @@
     Intercept and remove a transient individual situated in [location].
         Description:
         *
+
+> CHERRY REQUESTS
+    Close and secure South Cherry pedestrian gates per William of Classic Parking.
+    Open the men's restroom at South Cherry for William of Classic Parking.
