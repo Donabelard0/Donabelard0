@@ -17,9 +17,12 @@
     South Lobby Post Officer. [Glass Door and Barricade Watch]
     West Lobby Post Officer. [Glass Door and Barricade Watch]
     Fire Control Room Officer. [Firewatch]
+    South Ramp Post Officer [Access Control]
+    West Ramp Post Officer [Access Control]
 
 > ACTIONS
     Locks: Close and secure [location] due to no activity and end of business day.
+    Locks: Un-secure and open [location] for start of business day.
     Unlock:
     Code-10s: Provide temporary access to # (#) of [Company] to enter at West Ramp Entrance.
     Code-10s: Provide temporary access to an ABM worker for regular cleaning at Parking Office in South Garage (Section D).
