@@ -22,6 +22,7 @@
     Locks: Close and secure [location] due to no activity and end of business day.
     Unlock:
     Code-10s: Provide temporary access to # (#) of [Company] to enter at West Ramp Entrance.
+    Code-10s: Provide temporary access to an ABM worker for regular cleaning at Parking Office in South Garage (Section D).
 
 
 > CALL OFFS
@@ -63,3 +64,9 @@
 > CHERRY REQUESTS
     Close and secure South Cherry pedestrian gates per William of Classic Parking.
     Open the men's restroom at South Cherry for William of Classic Parking.
+
+> ABM REQUESTS
+    Provide temporary access to # (#) West Admin offices for regular ABM cleaning.
+    // Offices to provided access to:
+    // Ben Zarhoud, Kimberly Weedmark, Kim Nakashima, Emmett McOster
+    // LA Tourism: 
